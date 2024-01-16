@@ -27,7 +27,8 @@ const About = () => {
       <section className="text-center my-8" id="contact">
         <SectionHeaders
           subHeader={"Don't hesitate"}
-          mainHeader={"Contact us"}
+          main
+          Header={"Contact us"}
         />
         <div className="mt-8">
           <a
